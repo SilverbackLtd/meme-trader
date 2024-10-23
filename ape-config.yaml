@@ -1,0 +1,8 @@
+base:
+  mainnet:
+    default_provider: alchemy  # for foundry
+  mainnet-fork:
+    default_provider: foundry
+
+plugins:
+  - name: base
